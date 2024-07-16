@@ -1,6 +1,6 @@
 ## Hi there 👋
 Divyansh here...
-- 🔭 I’m worked on technologies like game developement using UE 5, python, machine learning, AWS and more.
+- 🔭 I worked on technologies like game developement using UE 5, python, machine learning, AWS and more.
 
 <!--
 **DivyanshParik/DivyanshParik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
